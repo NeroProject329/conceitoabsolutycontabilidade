@@ -14,7 +14,7 @@ const FooterSection = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
           >
-            Resolva suas <span className="text-gradient">pendências agora</span>!
+            Resolva totalmente a  <span className="text-gradient">sua vida financeira agora!</span>!
           </motion.h2>
           <motion.p
             className="text-muted-foreground mb-8 max-w-md mx-auto"
@@ -23,7 +23,7 @@ const FooterSection = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.2 }}
           >
-            Consulte agora suas opções e encontre as melhores condições para resolver suas pendências.
+            Consulte agora suas opções e encontre as melhores condições para resolver sua situação.
           </motion.p>
           <motion.div
             initial={{ opacity: 0, scale: 0.8 }}
