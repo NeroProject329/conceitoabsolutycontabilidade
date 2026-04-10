@@ -50,6 +50,9 @@ const FooterSection = () => {
           <p className="text-xs text-primary-foreground/50">
             CNPJ: 11.590.631/0001-24
           </p>
+          <p className="text-xs text-primary-foreground/50">
+            Contato: suporte@conceitoabsolutycontabilidade.com
+          </p>
           <p className="text-xs text-primary-foreground/50 leading-relaxed">
             Rua Minas Gerais, 1441E — Anexo, Sala 04 — Residencial Fiorindo Scussiato<br />
             Passo dos Fortes — Chapecó/SC — CEP 89805-512
